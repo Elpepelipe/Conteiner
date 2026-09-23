@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Conteiner">
         <activity
+            android:name=".RecyclerActivity2"
+            android:exported="false" />
+        <activity
             android:name=".SpinnerActivity"
             android:exported="false" />
         <activity
